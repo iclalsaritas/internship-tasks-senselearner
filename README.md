@@ -7,7 +7,7 @@
 ###### Web Server Hacking
 ###### Wireless Network Hacking
 ###### Social Engineering
-
+_______________________________________________________________________________________________________________________________________
 ###### Ethical Hacking Phases
 ###### Planning and Reconnaissance
 ###### The first step in ethical hacking is defining the scope and objectives of a test and identifying the test methods to be followed. It also involves gathering intelligence to understand potential security vulnerabilities and how a target operates. Future footprinting is done using footprinting tools on search engines, web services, social network sites, DNS, email, networks, etc.
