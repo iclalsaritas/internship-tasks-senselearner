@@ -42,8 +42,6 @@ ________________________________________________________________________________
 ##### A Call to Action
 
 ###### As we navigate this digital landscape, we must all become more cyber-aware. Simple steps, such as using strong passwords and staying vigilant against phishing attempts, can bolster our cybersecurity.
-
 ###### Governments, businesses, and individuals must invest in cybersecurity measures and stay updated. It's not just a technology issue; it's a responsibility we all share.
-
 ###### In conclusion, cybersecurity is not a luxury; it's a necessity in our digital society. It's the key to unlocking the internet's potential while keeping us safe. As we embrace the digital future, let's remember that a strong cybersecurity posture is vital.
 
