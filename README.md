@@ -1,4 +1,4 @@
-##### It is likely that any system, process, website, device, etc. can be vulnerable to an attack. To understand how a computer hacker could operate and what the damage could be, ethical hackers should think like malicious hackers and be aware of the tools and techniques they might use.
+###### It is likely that any system, process, website, device, etc. can be vulnerable to an attack. To understand how a computer hacker could operate and what the damage could be, ethical hackers should think like malicious hackers and be aware of the tools and techniques they might use.
 
 ###### These techniques can include:
 
