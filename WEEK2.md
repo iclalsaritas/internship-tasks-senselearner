@@ -1,3 +1,30 @@
+###### Difference Between Footprinting and Reconnaissance
+
+##### Footprinting:
+
+###### Footprinting involves gathering information about a target system.
+
+###### There are two main types of footprinting:
+
+###### Passive footprinting
+###### Active footprinting
+
+###### Passive footprinting: Gathering information from publicly available sources such as websites, news articles, and company profiles
+
+###### Active footprinting: Using more intrusive methods to access sensitive data, such as hacking into systems or applying social engineering techniques
+
+##### Reconnaissance:
+###### Reconnaissance is the information-gathering stage of ethical hacking, where you collect data about the target system. This data can include anything from network infrastructure to employee contact details. The goal of reconnaissance is to identify as many potential attack vectors as possible
+
+##### Data collected from reconnaissance may include:
+
+###### - Security Policies
+###### - Network Infrastructure
+###### - Host Infromation
+###### - Contact Info
+
+
+
 ##### Information gathering is a critical phase in cybersecurity and ethical hacking, and there are various tools available to assist with this process. Here's a comprehensive list i tried to collect of the most common information gathering tools and techniques
 
 ##### 1. Search Engines:
