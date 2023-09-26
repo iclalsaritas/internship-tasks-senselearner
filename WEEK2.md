@@ -6,8 +6,8 @@
 
 ###### There are two main types of footprinting:
 
-###### Passive footprinting
-###### Active footprinting
+###### - Passive footprinting
+###### - Active footprinting
 
 ###### Passive footprinting: Gathering information from publicly available sources such as websites, news articles, and company profiles
 
