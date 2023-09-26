@@ -127,3 +127,5 @@
 
 ###### SNMPwalk
 ###### Snmpcheck
+
+##### Remember that ethical hacking and information gathering should always be conducted with proper authorization and within the bounds of the law and ethical standards. Unauthorized or malicious use of these tools and techniques can have serious legal consequences. Always prioritize security and responsible use.
