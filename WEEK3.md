@@ -3,16 +3,16 @@
 
 ##### 👉 Let's dive into some essential Nmap commands to help you become a scanning pro! 💼💻
 
-###### 🔵 1. Basic Scan: Start with the basics! nmap target
-###### 🟢 2. TCP Scan: Scan specific ports!  nmap -p 80,443 target
-###### 🟣 3. OS Detection: Identify the target's operating system! nmap -O target
-###### 🔴 4. Service Version Detection: Discover running services! nmap -sV target
-###### 🟠 5. Aggressive Scan: Dig deep with aggressive scanning! nmap -A target
-###### 🟡 6. Fast Scan: Speed up your scans! nmap -F target
-###### 🔵 7. Custom Scripting: Tailor your scans with NSE scripts! nmap --script scriptname target
-###### 🔴 8. Timing Options: Adjust scan timing for stealth or speed! nmap -T4 target
-###### 🟣 9. Output to File: Save results for analysis! nmap -oN output.txt target
-###### 🔵 10. Scan Multiple Targets: Scan a range of IP addresses! nmap 192.168.1.1-10
+###### 🔵 1. Basic Scan: Start with the basics! ( nmap target )
+###### 🟢 2. TCP Scan: Scan specific ports! ( nmap -p 80,443 target )
+###### 🟣 3. OS Detection: Identify the target's operating system! ( nmap -O target )
+###### 🔴 4. Service Version Detection: Discover running services! ( nmap -sV target )
+###### 🟠 5. Aggressive Scan: Dig deep with aggressive scanning! ( nmap -A target )
+###### 🟡 6. Fast Scan: Speed up your scans! ( nmap -F target )
+###### 🔵 7. Custom Scripting: Tailor your scans with NSE scripts! ( nmap --script scriptname target )
+###### 🔴 8. Timing Options: Adjust scan timing for stealth or speed! ( nmap -T4 target )
+###### 🟣 9. Output to File: Save results for analysis! ( nmap -oN output.txt target )
+###### 🔵 10. Scan Multiple Targets: Scan a range of IP addresses! ( nmap 192.168.1.1-10 )
 
 ##### 🔑 These are just a few Nmap commands to get you started on your network exploration journey! Remember, with great power comes great responsibility. Always use Nmap ethically and with proper authorization. 🙌
 
