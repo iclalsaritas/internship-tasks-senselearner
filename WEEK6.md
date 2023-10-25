@@ -18,4 +18,4 @@
 
 ###### 8. Security Misconfigurations: Incorrect settings can be an open door. Double-check your config! 
 
-##### Stay informed, and remember, a strong defense is your best offense. Protect your web applications and keep the digital world safe! 
+##### Stay informed, and remember, a strong defense is your best offense. Protect your web applications and keep the digital world safe!
