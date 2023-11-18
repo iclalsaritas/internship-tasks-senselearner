@@ -26,7 +26,7 @@ ________________________________________________________________________________
 ######  3. Sensitive Data Exposure: Guard your data like a treasure.
 ######  4. XML External Entities (XXE): Prevent external entity attacks.
 ######  5. Broken Access Control: Limit unauthorized access.
-######  6. Security Misconfiguration: Fine-tune your security settings.
+######  6. Security Misconfiguration: Fine-tune your security settings. 
 ######  7. Cross-Site Scripting (XSS): Shield against malicious scripts.
 ######  8. Insecure Deserialization: Beware of deserialization flaws.
 ######  9. Using Components with Known Vulnerabilities: Keep your software up to date.
